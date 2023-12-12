@@ -15,4 +15,8 @@ I'm an undergraduate college student in Telkom University that's curious about t
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 
+<details>
+   <summary><h3>🤠 My Journey to Coding</h3></summary>
+     My journey into coding began when I found myself deeply engrossed in a game that piqued my curiosity. As I played, I couldn't help but wonder about the intricate mechanisms and algorithms that powered the virtual world I was navigating. The desire to unravel the mystery behind the game's inner workings ignited a spark within me, prompting me to delve into the realm of coding. The fascination with understanding the logic and code that brought the game to life motivated me to explore programming languages and develop my skills.
+
 
