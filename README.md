@@ -4,7 +4,7 @@
 
 I'm an undergraduate college student in Telkom University that's curious about tech, As an intermediate developer, I leverage a robust comprehension of programming concepts and frameworks, showcasing proficiency in designing and implementing sophisticated solutions while actively enhancing my skill set.
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools i dived into
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
