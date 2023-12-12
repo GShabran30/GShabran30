@@ -1,4 +1,4 @@
-# 😄 Gerald Shabran
+# 😄 Hello! This is Gerald (a local boy curious around digital tech)
 
 **`Agile Newcommer (Intermediate Developer/Former Basketball Player/Team Player)`**
 
