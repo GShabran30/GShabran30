@@ -1,6 +1,6 @@
 # 😄 Hello! This is Gerald
 
-**`Agile Newcommer (Intermediate Developer/Former Basketball Player/Team Player)`**
+**`Agile Newcommer (Intermediate Developer/Team Player/The Ironside)`**
 
 I'm an undergraduate college student in Telkom University that's curious about tech, As an intermediate developer, I leverage a robust comprehension of programming concepts and frameworks, showcasing proficiency in designing and implementing sophisticated solutions while actively enhancing my skill set.
 
