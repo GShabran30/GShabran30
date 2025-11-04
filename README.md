@@ -2,7 +2,7 @@
 
 **`Agile Newcomer (Intermediate Developer / Team Player / The Ironside)`**
 
-I'm a Graduate college student at Telkom University who's curious about tech. As an intermediate developer, I leverage a robust comprehension of programming concepts and frameworks—showcasing proficiency in designing and implementing sophisticated solutions while actively enhancing my skill set.
+I'm a Telkom University Graduate studentwho's curious about tech. As an intermediate developer, I leverage a robust comprehension of programming concepts and frameworks—showcasing proficiency in designing and implementing sophisticated solutions while actively enhancing my skill set.
 
 ---
 # 💫 About Me:
