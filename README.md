@@ -6,7 +6,8 @@ I'm a Software Engineer who's always curious about tech. As an intermediate deve
 
 ---
 # 💫 About Me:
-🔭 I’m currently working a shoes manufacture factory as a Software Engineer <br>🌱 Contribute in developing application that can support production line.
+🔭 I’m currently working a shoes manufacture factory as a Software Engineer and contribute in developing application that can support production line. <br>
+🌱 Always learn about new fascinating things.
 
 
 # 💻 Tech Stack:
