@@ -2,11 +2,11 @@
 
 **`Agile Newcomer (Intermediate Developer / Team Player / The Ironside)`**
 
-I'm a Telkom University Graduate studentwho's curious about tech. As an intermediate developer, I leverage a robust comprehension of programming concepts and frameworks—showcasing proficiency in designing and implementing sophisticated solutions while actively enhancing my skill set.
+I'm a Software Engineer who's always curious about tech. As an intermediate developer, I leverage a robust comprehension of programming concepts and frameworks—showcasing proficiency in designing and implementing sophisticated solutions while actively enhancing my skill set.
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on Hospital as an IT Support Helpdesk<br>🌱 I’m currently learning Software Develope & Information Technology
+🔭 I’m currently working a shoes manufacture factory as a Software Engineer <br>🌱 Contribute in developing application that can support production line.
 
 
 # 💻 Tech Stack:
